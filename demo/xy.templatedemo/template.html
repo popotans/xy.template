@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>$title</title>
+</head>
+<body>
+    <ul>
+        <li>asdasdasdasd</li>
+        <li>asdasdasdasd</li>
+        <li>asdasdasdasd</li>
+    </ul>
+
+    <div>
+        <ul>
+            $foreach(item in list)
+            $set(age=item.Age) 
+            <li>$item.Name--${AGe+1}岁</li>
+            $end
+        </ul>
+    </div>
+</body>
+</html>

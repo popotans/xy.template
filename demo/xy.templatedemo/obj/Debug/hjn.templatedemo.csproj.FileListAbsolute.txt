@@ -1,0 +1,8 @@
+I:\git\hjn.template\demo\hjn.templatedemo\bin\hjn.templatedemo.dll.config
+I:\git\hjn.template\demo\hjn.templatedemo\bin\hjn.templatedemo.dll
+I:\git\hjn.template\demo\hjn.templatedemo\bin\hjn.templatedemo.pdb
+I:\git\hjn.template\demo\hjn.templatedemo\bin\hjn.template.dll
+I:\git\hjn.template\demo\hjn.templatedemo\bin\hjn.template.pdb
+I:\git\hjn.template\demo\hjn.templatedemo\obj\Debug\hjn.templatedemo.csprojResolveAssemblyReference.cache
+I:\git\hjn.template\demo\hjn.templatedemo\obj\Debug\hjn.templatedemo.dll
+I:\git\hjn.template\demo\hjn.templatedemo\obj\Debug\hjn.templatedemo.pdb

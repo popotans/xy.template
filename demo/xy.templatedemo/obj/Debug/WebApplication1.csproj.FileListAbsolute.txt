@@ -1,0 +1,8 @@
+H:\download\JNTemplateV11_f172c446-c7ce-4830-b768-b64730452e74\WebApplication1\bin\WebApplication1.dll.config
+H:\download\JNTemplateV11_f172c446-c7ce-4830-b768-b64730452e74\WebApplication1\bin\WebApplication1.dll
+H:\download\JNTemplateV11_f172c446-c7ce-4830-b768-b64730452e74\WebApplication1\bin\WebApplication1.pdb
+H:\download\JNTemplateV11_f172c446-c7ce-4830-b768-b64730452e74\WebApplication1\bin\JinianNet.JNTemplate.dll
+H:\download\JNTemplateV11_f172c446-c7ce-4830-b768-b64730452e74\WebApplication1\bin\JinianNet.JNTemplate.pdb
+H:\download\JNTemplateV11_f172c446-c7ce-4830-b768-b64730452e74\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+H:\download\JNTemplateV11_f172c446-c7ce-4830-b768-b64730452e74\WebApplication1\obj\Debug\WebApplication1.dll
+H:\download\JNTemplateV11_f172c446-c7ce-4830-b768-b64730452e74\WebApplication1\obj\Debug\WebApplication1.pdb

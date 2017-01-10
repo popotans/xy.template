@@ -1,0 +1,4 @@
+I:\git\xy.template\src\bin\Debug\xy.template.dll
+I:\git\xy.template\src\bin\Debug\xy.template.pdb
+I:\git\xy.template\src\obj\Debug\xy.template.dll
+I:\git\xy.template\src\obj\Debug\xy.template.pdb

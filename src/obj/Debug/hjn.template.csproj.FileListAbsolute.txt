@@ -1,0 +1,4 @@
+I:\git\hjn.template\src\bin\Debug\hjn.template.dll
+I:\git\hjn.template\src\bin\Debug\hjn.template.pdb
+I:\git\hjn.template\src\obj\Debug\hjn.template.dll
+I:\git\hjn.template\src\obj\Debug\hjn.template.pdb
